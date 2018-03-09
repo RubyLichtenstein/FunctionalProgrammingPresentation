@@ -1,0 +1,20 @@
+
+Hsquid:S1172",Remove this unused method parameter "token".(Ğ…Çó8Ü°İÜŸ,
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ…Çó8Ü°İÜŸ,
+Gsquid:S1172"&Remove these unused method parameters.(ØÇøúùÿÿÿÿ8œô‘ÜŸ,
+Í%squid:RedundantThrowsDeclarationCheck"‘Remove the declaration of thrown exception 'com.rubylich.exmple.PresentationEitherJava$EmailNotExist', as it cannot be thrown from method's body.(†ö§úÿÿÿÿ8¬¬œÜŸ,
+esquid:S2259"IA "NullPointerException" could be thrown; "accessToken" is nullable here.(Åú•ù8™ûÜÜŸ,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ìñª¾üÿÿÿÿ8äàŞÜŸ,
+esquid:S2259"IA "NullPointerException" could be thrown; "accessToken" is nullable here.(èÏœç8³´¯ÜŸ,
+‰"squid:ClassVariableVisibilityCheck"QMake token a static final constant or non-public and provide accessors if needed.(œ½Ë„ıÿÿÿÿ8œô‘ÜŸ,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(àï÷”ıÿÿÿÿ8ÌüİÜŸ,
+Ì%squid:RedundantThrowsDeclarationCheck"Remove the declaration of thrown exception 'com.rubylich.exmple.PresentationEitherJava$InvalidEmail', as it cannot be thrown from method's body.(†ö§úÿÿÿÿ8¯¼›ÜŸ,
+]squid:UnusedPrivateMethod"3Remove this unused private "loginPresenter" method.(™Ø‡¿8ß³£éŸ,
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨ŞÅ8¡ÕİÜŸ,
+jsquid:S2259"IA "NullPointerException" could be thrown; "accessToken" is nullable here.(åÆ³Œùÿÿÿÿ8ÀÆÉÜŸ,
+dsquid:UnusedPrivateMethod"5Remove this unused private "printLoginResult" method.(Íñ–“şÿÿÿÿ8§Ó´ÜŸ,
+Ï%squid:RedundantThrowsDeclarationCheck"“Remove the declaration of thrown exception 'com.rubylich.exmple.PresentationEitherJava$InvalidPassword', as it cannot be thrown from method's body.(†ö§úÿÿÿÿ8ÓÍ›ÜŸ,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Å‚ÌË8‚”ÇÜŸ,
+Í%squid:RedundantThrowsDeclarationCheck"‘Remove the declaration of thrown exception 'com.rubylich.exmple.PresentationEitherJava$WrongPassword', as it cannot be thrown from method's body.(†ö§úÿÿÿÿ8¬¬œÜŸ,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(óéÆ¥øÿÿÿÿ8¥¹ŞÜŸ,

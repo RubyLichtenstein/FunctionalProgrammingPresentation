@@ -1,0 +1,18 @@
+
+Psquid:S1172"/Remove this unused method parameter "argument".(Ë©Áïùÿÿÿÿ8‡”Â«Ÿ,
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ì‰°ùÿÿÿÿ8—øªŸ,
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8şªŸ,
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(şšêÎ8û®¢ªŸ,
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ˜Èüÿÿÿÿ8Òğ÷ªŸ,
+§%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(†à¢‘şÿÿÿÿ8ôå·¬Ÿ,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†à¢‘şÿÿÿÿ8ôå·¬Ÿ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8¾Ü¬Ÿ,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨Ì‰°ùÿÿÿÿ8¦ğªŸ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Öß¸¬Ÿ,
+hsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ïï¿«Ÿ,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒ˜Èüÿÿÿÿ8ş¸òªŸ,
+tsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(æ¤£ûÿÿÿÿ8²Ô¬Ÿ,
+Ï%squid:RedundantThrowsDeclarationCheck"˜Remove the declaration of thrown exception 'com.rubylich.exmple.ProblemsWithCheckd$AnnoyingCheckedException', as it cannot be thrown from method's body.(şšêÎ8¹±¥ªŸ,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8À¾üªŸ,
+¢%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(¦¢º8ôå·¬Ÿ,
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦¢º8ı¼µ¬Ÿ,
